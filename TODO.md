@@ -5,5 +5,7 @@
 - [ ] amountをprivateにする
 - [x] Dollarの副作用をどうする？
 - [ ] Moneyの丸め処理をどうする？
-- [ ] equals()
+- [x] equals()
 - [ ] hashcode()
+- [ ] nullとの等価性比較
+- [ ] 他のオブエクととの等価性比較
